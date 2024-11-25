@@ -11,7 +11,7 @@ Autores:
 
 ### 💻 code
 - **[cdf_likeabaws.ipnyb](https://github.com/l2aFa/cdfcomojefe/blob/main/code/cdf_likeabaws.ipynb) :** Cuaderno con el código mostrado durante la sesión. Incluye indicaciones, comentarios y explicaciones de lo realizado. Recuerda que deberás agregar un lakehouse de Fabric a él (incluye instrucciones en el interior).
-- **[power_wranglers.ipynb](https://github.com/l2aFa/cdfcomojefe/blob/main/code/liquid_clustering.ipynb) :** Ejemplo de implementación de liquid clustering dentro de Microsoft Fabric. Puedes encontrar más información [aquí](https://www.vernegroup.com/actualidad/tecnologia/microsoft-fabric-liquid-clustering/).
+- **[liquid_clustering.ipynb](https://github.com/l2aFa/cdfcomojefe/blob/main/code/liquid_clustering.ipynb) :** Ejemplo de implementación de liquid clustering dentro de Microsoft Fabric. Puedes encontrar más información [aquí](https://www.vernegroup.com/actualidad/tecnologia/microsoft-fabric-liquid-clustering/).
 
 ### 🛠️ utils
 - **[Product.csv](https://github.com/l2aFa/cdfcomojefe/blob/main/utils/Product.csv) :** Fichero CSV utilizado como base para los contenidos mostrados en el cuaderno.
